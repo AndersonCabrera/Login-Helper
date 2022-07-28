@@ -4,4 +4,4 @@
 
 - Este projeto foi usado como inicial de estudo em HTML5, CSS3 e JAVASCRIPT.
 
-  ![Printscreen-da-tela](C:\Workspace\Cursos\HTML, CSS e JavaScript Udemy\LOGIN\img\Printscreen-da-tela.png)
+https://drive.google.com/file/d/1vCnizuOCfv1GwafQHvxmN0Ry2IkK4jDM/view?usp=sharing
