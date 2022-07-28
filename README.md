@@ -1,2 +1,3 @@
 # Login-Helper
-Código usando HTML5, CSS3 e JavaScript: Página de LOGIN
+#### Criação de página de login para servir como modelo:
+- Este projeto foi usado como inicial de estudo em HTML5, CSS3 e JAVASCRIPT.
